@@ -44382,14 +44382,19 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 25px;
-    margin-right: 243px;
+    margin-top: 20px;
+    margin-right: 77px;
+  }
+
+  .u-header .u-hamburger-link-1 {
+    font-size: calc(1em + 18px);
+    padding: 4px 2px;
   }
 
   .u-header .u-text-1 {
     font-family: Lobster, display;
     width: 493px;
-    margin-top: -43px;
+    margin-top: -54px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -44397,7 +44402,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-2 {
     width: 300px;
     font-family: Oswald, sans-serif;
-    margin: -10px auto 19px;
+    margin: -12px auto 19px;
   }
 }
 @media (max-width: 767px) {
@@ -44424,7 +44429,8 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
     margin-top: 15px;
-    margin-left: 400px;
+    margin-right: 0;
+    margin-left: auto;
   }
 
   .u-header .u-hamburger-link-1 {
